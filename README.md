@@ -14,6 +14,7 @@ Consider signing up for the platform [Click here](https://www.tradingview.com/go
 ## Pine Scripts
 * [Page - All Scripts](https://www.tradingview.com/u/tdgatti/#published-scripts)
     * Estrategies
+        * [MAcross](Scripts/Strategies/MAcross.pine)
     * Indicators
 
 
